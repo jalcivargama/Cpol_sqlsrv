@@ -1,0 +1,11 @@
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\CPol.exe
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\SCB_BaseDeDatos.db
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\CPol.dll
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\CPol.deps.json
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\CPol.runtimeconfig.json
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\CPol.pdb
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\System.Data.SQLite.dll
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\runtimes\win-x64\native\SQLite.Interop.dll
+D:\srcDotnet\SCB\bin\Release\net8.0-windows\publish\runtimes\win-x86\native\SQLite.Interop.dll
